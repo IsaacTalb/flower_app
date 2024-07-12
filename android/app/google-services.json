@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480189689467",
+    "project_id": "flowerapp-93cfb",
+    "storage_bucket": "flowerapp-93cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480189689467:android:2f777126aa360610217cde",
+        "android_client_info": {
+          "package_name": "duckcloud.flowerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVvhvKONTUnIz-f71WF3OdIHTepNW2pMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
